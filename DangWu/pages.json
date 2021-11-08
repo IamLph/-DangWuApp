@@ -1,0 +1,321 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/mine/Login",
+			"style": {
+				"navigationBarTitleText": "登录",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white"
+			}
+		},
+		{
+			"path": "pages/component/Index",
+			"style": {
+				"navigationBarTitleText": "主页",
+				"navigationBarBackgroundColor": "#a50002", //#3D444C
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/component/Active",
+			"style": {
+				"navigationBarTitleText": "活动",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/component/VideoStudy",
+			"style": {
+				"navigationBarTitleText": "学习",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/component/Msg",
+			"style": {
+				"navigationBarTitleText": "消息",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/component/Myself",
+			"style": {
+				"navigationBarTitleText": "我",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/otherComponent/newsInfo",
+			"style": {
+				"navigationBarTitleText": "新闻信息",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/otherComponent/ActiveInfo",
+			"style": {
+				"navigationBarTitleText": "活动信息",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/practice/practice",
+			"style": {
+				"navigationBarTitleText": "练习",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/practice/practice-practice",
+			"style": {
+				"navigationBarTitleText": "单选",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/practice/practice-test",
+			"style": {
+				"navigationBarTitleText": "单选",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/mine/Info",
+			"style": {
+				"navigationBarTitleText": "我的信息",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/mine/Setting",
+			"style": {
+				"navigationBarTitleText": "设置",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/error/error",
+			"style": {
+				"navigationBarTitleText": "错题",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+
+		{
+			"path": "pages/error/error-test",
+			"style": {
+				"navigationBarTitleText": "错题",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/collect/collect",
+			"style": {
+				"navigationBarTitleText": "收藏",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/collect/detail-collect",
+			"style": {
+				"navigationBarTitleText": "收藏题",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+
+			"path": "pages/otherComponent/AllNews",
+			"style": {
+				"navigationBarTitleText": "新闻公示",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/mine/About",
+			"style": {
+				"navigationBarTitleText": "关于我们",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/otherComponent/PartActive",
+			"style": {
+				"navigationBarTitleText": "已参与",
+				"navigationBarBackgroundColor":"#760003",
+				"navigationBarTextStyle":"white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/mine/SettingPwd",
+			"style": {
+				"navigationBarTitleText": "修改密码",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/otherComponent/videoStudyInfo",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		},
+		{
+			"path": "pages/otherComponent/watchVideo",
+			"style": {
+				"navigationBarTitleText": "",
+				"navigationBarBackgroundColor": "#a50002",
+				"navigationBarTextStyle": "white",
+				"app-plus": {
+					// 将回弹属性关掉
+					"bounce": "none"
+				}
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "uni-app",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8",
+		"app-plus": {
+			// 将回弹属性关掉
+			"bounce": "none",
+			"scrollIndicator":"none"
+		}
+	},
+	"tabBar": {
+		"color": "#7A7E83",
+		"selectedColor": "#dd1515",
+		"borderStyle": "black",
+		"backgroundColor": "#ffffff",
+		"list": [{
+				"pagePath": "pages/component/Index",
+				"iconPath": "static/image/icon/zhuye.png",
+				"selectedIconPath": "static/image/icon/zhuye_s.png",
+				"text": "主页"
+			}, {
+				"pagePath": "pages/component/Active",
+				"iconPath": "static/image/icon/huodong.png",
+				"selectedIconPath": "static/image/icon/huodong_s.png",
+				"text": "活动"
+			},{
+				"pagePath": "pages/component/VideoStudy",
+				"iconPath": "static/image/icon/study.png",
+				"selectedIconPath": "static/image/icon/study_s.png",
+				"text": "学习"
+			}, {
+				"pagePath": "pages/component/Msg",
+				"iconPath": "static/image/icon/xiaoxi.png",
+				"selectedIconPath": "static/image/icon/xiaoxi_s.png",
+				"text": "消息"
+			},{
+				"pagePath": "pages/component/Myself",
+				"iconPath": "static/image/icon/my.png",
+				"selectedIconPath": "static/image/icon/my_s.png",
+				"text": "我的"
+			}
+		]
+	}
+}
